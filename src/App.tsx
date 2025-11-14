@@ -1,7 +1,6 @@
 import { useMemo, useState } from 'react'
 import './App.css'
 import { Button } from './components/ui/button'
-import { Card, CardContent, CardFooter, CardHeader } from './components/ui/card'
 import { Checkbox } from './components/ui/checkbox'
 import { Separator } from './components/ui/separator'
 
